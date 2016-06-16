@@ -3,4 +3,3 @@ function (user, context, callback) {
   console.log('Hi from github hosted rule');
   callback(null, user, context);
 }
-
